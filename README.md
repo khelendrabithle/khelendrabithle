@@ -3,13 +3,9 @@
 <img align="right" alt="coding" width = "400" src="https://outlane.co/now/new-shot-programmer-animation/"
 
 - 🌱 I’m currently learning **Kubernetes, Docker, DevOps , DSA**
-
 - 👨‍💻 All of my projects are available at [https://khelendrabithle.github.io/Responsive-Portfolio-Website/](https://khelendrabithle.github.io/Responsive-Portfolio-Website/)
-
 - 💬 Ask me about **Web Development, Java(Spring Boot)**
-
 - 📫 How to reach me **Khelendrabithle1241@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lVPFRRSGE8nDaA5UXT1rFiXtHofGVbCC/view?usp=drive_link](https://drive.google.com/file/d/1lVPFRRSGE8nDaA5UXT1rFiXtHofGVbCC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
