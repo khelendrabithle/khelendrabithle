@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khelendra Bithle</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width = "400" src="https://outlane.co/now/new-shot-programmer-animation/"
 
 - 🌱 I’m currently learning **Kubernetes, Docker, DevOps , DSA**
 - 👨‍💻 All of my projects are available at [https://khelendrabithle.github.io/Responsive-Portfolio-Website/](https://khelendrabithle.github.io/Responsive-Portfolio-Website/)
